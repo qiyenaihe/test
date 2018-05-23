@@ -13,6 +13,7 @@ namespace test1
             Console.WriteLine("ccc");
             //zheshi copy
             Console.WriteLine("master_copy");
+            Console.WriteLine("master_copy2");
         }
     }
 }
