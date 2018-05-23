@@ -11,7 +11,9 @@ namespace test1
         static void Main(string[] args)
         {
             Console.WriteLine("ccc");
+            //zheshi copy
             Console.WriteLine("master_copy");
+            Console.WriteLine("master_copy2");
         }
     }
 }
